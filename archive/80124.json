@@ -1,0 +1,70 @@
+{
+  "session": "80124",
+  "questions": [
+    {
+      "show": true,
+      "type": "TWTO",
+      "question": "What technology is commonly used for two-factor authentication (2FA)?",
+      "options": [
+        "Biometrics",
+        "Firewalls",
+        "CAPTCHA",
+        "SMS"
+      ],
+      "hash": "ak4we5",
+      "generalType": "General knowledge",
+      "explanation": "SMS (Short Message Service) is commonly used for two-factor authentication (2FA). A user receives a text message with a code to confirm their identity in addition to their regular password, adding an extra layer of security.",
+      "score": 20
+    },
+    {
+      "show": true,
+      "type": "TWTO",
+      "question": "What does 'USB' stand for in computing?",
+      "options": [
+        "Universal Serial Bus",
+        "United System Bridge",
+        "Universal System Bus",
+        "Unified Serial Bridge"
+      ],
+      "hash": "1dgarkn",
+      "generalType": "General knowledge",
+      "explanation": "USB stands for Universal Serial Bus. It is a standard type of connection for many different kinds of devices, including keyboards, mice, printers, and external storage devices.",
+      "score": 20
+    },
+    {
+      "show": false,
+      "type": "TWTO",
+      "question": "What is the correct way to end a PHP statement?",
+      "options": [
+        ".",
+        ";",
+        ":",
+        "END"
+      ],
+      "hash": "rh8hbd",
+      "generalType": "PHP",
+      "explanation": "",
+      "score": 30
+    },
+    {
+      "show": true,
+      "type": "TWTO",
+      "question": "Which of the following is a way to create an object in JavaScript?",
+      "options": [
+        "var obj = {};",
+        "var obj = new Object();",
+        "var obj = Object.create(null);",
+        "All of the above"
+      ],
+      "hash": "14h7q0m",
+      "generalType": "JavaScript",
+      "explanation": "In JavaScript, there are several ways to create objects. These include using object literals (e.g., `{}`), the `new Object()` constructor, and the `Object.create()` method.",
+      "score": 20
+    }
+  ],
+  "endGame": 1704768905212,
+  "quote": {
+    "message": "You don’t need to see the whole staircase, just take the first step.",
+    "author": "Martin Luther King Jr"
+  }
+}

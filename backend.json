@@ -1,0 +1,154 @@
+{
+    "session": "250124",
+    "questions": [
+      {
+        "show": true,
+        "type": "TWTO",
+        "question": "What does SQL stand for?",
+        "options": [
+          "Simple Query Language",
+          "Structured Query Language",
+          "Standard Query Language",
+          "Sequential Query Language"
+        ],
+        "hash": "zlckvn",
+        "generalType": "SQL",
+        "explanation": "SQL stands for Structured Query Language. It's a standard language for accessing and manipulating databases.",
+        "score": 20
+      },
+      {
+        "show": true,
+        "type": "TWTO",
+        "question": "Which SQL statement is used to extract data from a database?",
+        "options": [
+          "OPEN",
+          "EXTRACT",
+          "SELECT",
+          "GET"
+        ],
+        "hash": "1fwad6u",
+        "generalType": "SQL",
+        "explanation": "The SELECT statement is used to select data from a database. It's the most commonly used statement to query a database.",
+        "score": 20
+      },
+      {
+        "show": true,
+        "type": "TWTO",
+        "question": "Which SQL statement is used to update data in a database?",
+        "options": [
+          "MODIFY",
+          "UPDATE",
+          "CHANGE",
+          "ALTER"
+        ],
+        "hash": "t3hjb2",
+        "generalType": "SQL",
+        "explanation": "The UPDATE statement is used to modify the existing records in a database.",
+        "score": 20
+      },
+      {
+        "show": true,
+        "type": "TWTO",
+        "question": "The DELETE statement in SQL is used to delete the schema of a table but not the data within it.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "hash": "1sxu8fo",
+        "generalType": "SQL",
+        "explanation": "The DELETE statement in SQL is used to remove records from a table, not the schema of the table. The structure of the table remains intact.",
+        "score": 10
+      },
+      {
+        "show": true,
+        "type": "TWTO",
+        "question": " How do you select a column named \"FirstName\" from a table named \"Employees\"?",
+        "options": [
+          "SELECT 'FirstName' FROM Employees",
+          "EXTRACT FirstName FROM Employees",
+          "GET FirstName FROM Employees",
+          "SELECT FirstName FROM Employees"
+        ],
+        "hash": "f1piu2",
+        "generalType": "SQL",
+        "explanation": "The correct syntax to select a column is to use the SELECT statement followed by the column name and the FROM keyword with the table name.",
+        "score": 20
+      },
+      {
+        "show": true,
+        "type": "TWTO",
+        "question": "What is the purpose of the WHERE clause in SQL?",
+        "options": [
+          "To specify the destination of a query",
+          "To sort the result-set",
+          "To limit the result-set based on a condition",
+          "To join tables"
+        ],
+        "hash": "um55el",
+        "generalType": "SQL",
+        "explanation": "The WHERE clause is used to filter records. It is used to extract only those records that fulfill a specified condition.",
+        "score": 20
+      },
+      {
+        "show": true,
+        "type": "TWTO",
+        "question": "In SQL, the INSERT INTO statement is used to add new rows to a table.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "hash": "q10uk3",
+        "generalType": "SQL",
+        "explanation": "The INSERT INTO statement in SQL is indeed used to add new rows of data to a table in a database.",
+        "score": 10
+      },
+      {
+        "show": true,
+        "type": "TWTO",
+        "question": "Which SQL keyword is used to sort the result-set?",
+        "options": [
+          "SORT BY",
+          "ORDER BY",
+          "ALIGN BY",
+          "GROUP BY"
+        ],
+        "hash": "1bxhasr",
+        "generalType": "SQL",
+        "explanation": "The ORDER BY keyword is used to sort the result-set in ascending or descending order.",
+        "score": 20
+      },
+      {
+        "show": true,
+        "type": "TWTO",
+        "question": "How can you insert a new row into a table named \"Users\"?",
+        "options": [
+          "ADD INTO Users VALUES (...)",
+          "INSERT INTO Users VALUES (...)",
+          "UPDATE INTO Users SET (...)",
+          "CREATE NEW ROW IN Users (...)"
+        ],
+        "hash": "1hsidt",
+        "generalType": "SQL",
+        "explanation": "The INSERT INTO statement is used to insert new records in a table.",
+        "score": 20
+      },
+      {
+        "show": true,
+        "type": "TWTO",
+        "question": "The JOIN clause in SQL is only used for combining rows within the same table.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "hash": "1sxu8fo",
+        "generalType": "SQL",
+        "explanation": "The JOIN clause is used to combine rows from two or more tables, based on a related column between them. It is not limited to rows within the same table.",
+        "score": 10
+      }
+    ],
+    "endGame": 1706240912176,
+    "quote": {
+      "message": "What you lack in talent can be made up with desire, hustle and giving 110% all the time.",
+      "author": "Don Zimmer"
+    }
+  }
